@@ -55,5 +55,5 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 ## Acknowledgments
 
 * thanks to everyone on reddit for the help with formatting and code contact me through reddit if you want ot be directly metioned
-* [https://github.com/othneildrew/Best-README-Template] (my help formatting my read me)
+* [https://github.com/othneildrew/Best-README-Template] (my help formatting my readme and changelog files)
 
