@@ -1,4 +1,4 @@
-import keyboard as keyboard
+import keyboard
 
 # Record events until 'esc' is pressed.
 recorded = keyboard.record(until='esc')
@@ -7,4 +7,4 @@ recorded = keyboard.record(until='esc')
 for i in range(10000):
     # playback at 100x speed
     keyboard.play(recorded, speed_factor=100)
-    print(i)
+    print(i+1)
