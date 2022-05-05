@@ -1,5 +1,6 @@
 # textspam
 small program to spam scammers as a way to annoy them
+!!!!VIEW THIS FILE AS RAW!!!
 
 to use: run the program and send your first message to the scammer as normal
 press the 'esc' key to repeat that message 10,000 times
@@ -8,6 +9,7 @@ If you want to change the amount of times the message is sent:
           change this value to the # of messages you want to send
                   ^
 while count <= 10000:
+
 If you want to change the speed at which the message is replayed(replay speed is dependent on your typing speed):
                                   change this value 
                                       ^
